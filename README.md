@@ -36,7 +36,7 @@ Die Endformate können aus den Markdown-Dateien erstellt werden. Pandoc ist ein 
   pandoc src/metadata.txt src/*.md -o die-natur-der-stadt.pdf
 ```
 
-Mehr Informationen zur technischen Umsetzung finden sich auf [diesem Medium Blog Post](https://medium.com/@frank_laemmer/from-analog-text-to-e-book-e1a90dcbe92).
+Mehr Informationen zur technischen Umsetzung finden sich auf [diesem Medium Blog Post](https://medium.com/@frank-laemmer/from-analog-text-to-e-book-e1a90dcbe92).
 
 ## Lizenz
 

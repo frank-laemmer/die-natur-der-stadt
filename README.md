@@ -15,7 +15,7 @@
   + PDF `.pdf`
 + ( Scan PDF als Quelldatei )
 
-## Status
+## Status: ERSTER ENTWURF
 
 + 2020-02-02 - Im Moment ist nur das erste Vorwort und erste Kapitel digitalisiert
 

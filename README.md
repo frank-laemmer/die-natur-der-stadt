@@ -17,7 +17,8 @@
 
 ## Status: ERSTER ENTWURF
 
-+ 2020-02-02 - Im Moment ist nur das erste Vorwort und erste Kapitel digitalisiert
++ 2020-02-03: Struktur aufgeräumt, Buchscan vorbereitet
++ 2020-02-02: Im Moment ist nur das erste Vorwort und erste Kapitel digitalisiert
 
 ## Mitmachen
 

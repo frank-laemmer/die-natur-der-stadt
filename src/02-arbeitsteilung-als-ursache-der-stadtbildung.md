@@ -273,3 +273,9 @@ Die Überwindung des Gegensatzes von Stadt und Land heißt die Stadt zu einer "n
 künstlerische Arbeit als den Versuch, dem Stummen Sprache zu verleihen. (89) In der Stadt auf der dritten Stufe der gesellschaftlichen Entwicklung wird sich ihre Natürlichkeit am Formniveau ihrer Architektur erweisen.
 
 (89) Horkheimer meinte, daß die Natur versöhnt werden könne, wenn ihr ein Organ verliehen werde, wodurch sie sich mitteilen könne. Solche Anstrengung, dem Stummen Sprache und Ausdruck zu verleihen, verbinde die Philosophie mit der Kunst. Vgl. Hork- heimer, Zur Kritik der instrumentellen Vernunft. Aus den Vorträgen und Aufzeich- nungen seit Kriegsende (Hg. Alfred Schmidt), Frankfurt 1974, S, 167
+
+
+
+
+
+

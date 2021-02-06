@@ -5,7 +5,7 @@ language: de-DE
 publisher: Verlag Neue Kritik
 rights: 2021 Frank Lämmer
 toc-title: Inhaltsverzeichnis
-cover-image: images/cover-color.jpg
+cover-image: src/images/cover-color.jpg
 date: 1978
 identifier:
 - scheme: isbn-13

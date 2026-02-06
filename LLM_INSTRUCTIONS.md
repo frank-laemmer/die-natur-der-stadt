@@ -114,6 +114,7 @@ This repository contains the digitization of "Die Natur der Stadt" by Heide Bern
 6. **Verify line breaks**: Insert two line breaks for a new paragraph where the book ends a sentence with on line break
 7. **Lint**: Text should be valid Markdown
 8. **Remove original text artifacts**: When creating new text, make sure to remove all replaced text
+9. **Keep footnote definitions in original location**: Keep the footnotes roundabout in the same location. Just try to end the sentence of the paragraph.
 
 ## Error Handling
 

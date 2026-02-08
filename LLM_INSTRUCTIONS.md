@@ -88,6 +88,8 @@ This repository contains the digitization of "Die Natur der Stadt" by Heide Bern
 3. **Conservative approach**: When uncertain about OCR errors, make minimal changes
 4. **Check patterns**: Look for consistent formatting throughout the document
 5. **Maintain references**: Ensure footnote numbering remains sequential and accurate
+6. Work in the code editor, don't create python or bash scripts
+7. Only work on the text the user has specified, usually selected text.
 
 ### Quality Checks
 
@@ -115,6 +117,7 @@ This repository contains the digitization of "Die Natur der Stadt" by Heide Bern
 7. **Lint**: Text should be valid Markdown
 8. **Remove original text artifacts**: When creating new text, make sure to remove all replaced text
 9. **Keep footnote definitions in original location**: Keep the footnotes roundabout in the same location. Just try to end the sentence of the paragraph.
+10. Make footnotes match Markdown standards like so [^4-145]
 
 ## Error Handling
 

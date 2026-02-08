@@ -4,8 +4,8 @@
 
 ## Downloads
 
-+ [die-natur-der-stadt.epub](die-natur-der-stadt.epub)
-+ [die-natur-der-stadt.pdf](die-natur-der-stadt.pdf)
++ [die-natur-der-stadt.epub](die-natur-der-stadt.epub) - E-Book
++ [die-natur-der-stadt.pdf](die-natur-der-stadt.pdf) - PDF
 
 ## Struktur und Inhalt
 
@@ -21,11 +21,9 @@
 + 2020-02-02: Im Moment ist nur das erste Vorwort und erstes Kapitel digitalisiert
 + 2022-02-20: Buch Scan bis Seite 86
 + Pause
-+ 2026-02-04: Neuer LLM basierte Ansatz für Textkorrektur
-
-## Mitmachen
-
-Pull Requests sind willkommen.
++ 2026-02-04: Neuer AI basierter Ansatz für Textkorrektur
++ 2026-02-07: Buch gescannt (Abbildungen noch nicht gut)
++ 
 
 ## Generierung der Exporte
 
@@ -43,8 +41,6 @@ Die Endformate können aus den Markdown-Dateien erstellt werden. Pandoc ist ein 
   ocrmypdf -l deu scans/Buchscan.pdf scans/Buchscan-ocr.pdf
 ```
 
-Mehr Informationen zur technischen Umsetzung finden sich auf [diesem Medium Blog Post](https://frank-laemmer.medium.com/from-analog-text-to-e-book-e1a90dcbe92).
-
 ## Lizenz
 
 Dieser Text hier ist mit freundlicher Genehmigung des Verlag Neue Kritik veröffentlicht. Der Text kann unter share alike Bedingungen genutzt werden. Training von AI Modellen ist untersagt.
@@ -52,3 +48,9 @@ Dieser Text hier ist mit freundlicher Genehmigung des Verlag Neue Kritik veröff
 ## Kontakt
 
 frank@franklaemmer.de
+
+
+## Notizen
+
+- `ἀρχιτέκτων` 4 -> 340 entfernt wegen pdflatex
+- 

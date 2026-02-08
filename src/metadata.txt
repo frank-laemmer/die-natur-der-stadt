@@ -3,7 +3,7 @@ title: Die Natur der Stadt
 author: Heide Berndt
 language: de-DE
 publisher: Verlag Neue Kritik
-rights: 2021 Frank Lämmer
+rights: Frank Lämmer
 toc-title: Inhaltsverzeichnis
 cover-image: src/images/cover-color.jpg
 date: 1978

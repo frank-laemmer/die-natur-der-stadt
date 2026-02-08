@@ -1,0 +1,266 @@
+# Literaturverzeichnis
+
+Dieses Literaturverzeichnis ist lediglich die alphabetische Zusammenfassung aller zitierten Texte. Sofern ich Zitate aus fremdsprachiger Literatur verwendet habe, sind die Übersetzungen ins Deutsche von mir vorgenommen worden.
+
+- Abel, Wilhelm, Massenarmut und Hungerkrisen im vorindustriellen Deutschland, Göttingen (2) 1977
+- Achijeser , A.S., L.B. Kogan, O.B. Janitzki, Urbanisierung, Gesellschaft und wissenschaftlich-technische Revolution, in: Sowjetwissenschaft, Gesellschaftswissenschaftliche Beiträge 10 (Oktober) 1969
+- Adorno, Theodor W., Ästhetische Theorie, in: Gesammelte Schriften, Frankfurt 1970, Bd. 7 \
+- ders., Individuum und Organisation, in: GS Bd. 8, a.a.O.
+- ders., Zum Verhältnis von Soziologie und Psychologie, in: GS Bd. 8, 2.2.0.
+- Agrarbericht 1976. Agrar- und ernährungspolitischer Bericht der Bundesregierung, Deutscher Bundestag, Drucksache 7/4680
+- Albright, William F., Von der Steinzeit zum Christentum. Monotheismus und geschichtliches Werden, München 1949 (engl.1940) .
+- Alewyn, Richard und Karl Sälzle, Das große Welttheater. Die Epoche der höfischen Feste, Hamburg 1959
+- Altheim, Franz, Altrömisches Königtum, in: Die Welt als Geschichte, Bd. 1, Stuttgart 1935
+- Anderson, Perry, Lineages of the Absolutist State, London 1974
+- Anderson, W.J. und R. Phene Spiers, Die Architektur von Griechenland und Rom, Leipzig 1905 (engl. 1902)
+- Andrae, Walther , Das Gotteshaus und die Urformen des Bauens im Alten Orient, Berlin 1930 - -
+- ders., Die jonische Säule, Bauform oder Symbol?, Berlin 1933
+- ders., The Story of Uruk, in: Antiquity (Gloucester) 10 (1936)
+- Aries, Philippe, Geschichte der Kindheit, München/Wien 1975 (franz. 1960)
+- Badawy, Alexander , Orthogonal and Axial Town Planning in Egypt, in: Zeitschrift für ägyptische Sprache und Altertumskunde, Bd. 85 (Berlin 1960)
+- Bahrdt, Hans Paul, Die moderne Großstadt. Soziologische Überlegungen zum Städtebau, Reinbek 1961
+- ders., Umwelterfahrung, München 1974
+- Banham, Reyner , Die Revolution der Architektur . Theorie und Gestaltung im Ersten Maschinenzeitalter , Reinbek 1964 (engl. 1960)
+- v. Below, Georg, Die Bedeutung der Gilden für die Entstehung der deutschen Stadtverfassung, in: Jahrbuch für Nationalökonomie und Statistik, Jg. 15 (1892)
+- ders., Stadtgemeinde, Landgemeinde und Gilde, in: Vierteljahresschrift für Sozial- und Wirtschaftsgeschichte, vol. VII (1909)
+- Benevolo, Leonardo, Die sozialen Ursprünge des modernen Städtebaus, Lehren von gestern — Forderungen für morgen, Gütersloh 1971 = Bauwelt Fundamente Bd. 29
+- ders., Geschichte der Architektur des 19. und 20. Jahrhunderts, 2 Bände, München 1964 (ital. 1960)
+- Benjamin, Walter , Illuminationen, Frankfurt 1961
+- ders., Ursprung des deutschen Trauerspiels, Frankfurt 1972
+- Benz, Richard, Deutsches Barock, Kultur des 18. Jahrhunderts, Stuttgart 1949
+- Berndt, Heide, Rainer Dilcher , Lorenz Rautenstrauch, Wie sehen die Bewohner neuer Stadtteile ihre Umgebung?, in: werk (Zürich) 12/1972
+- Bernstein, Basil, Studien zur sprachlichen Sozialisation, Düsseldorf 1972
+- Bettelheim, Bruno, Die Kinder der Zukunft, München 1971
+- Bloch, Raymond, The Etruscans, London (4) 1965 (franz. 1956)
+- | Boethius, Axel, Roman and Greek Town Architecture, in: Göteborgs Högskolas Arsskrift, Bd. LIV (Göteborg) 1948
+- Borkenau, Franz, Der’ Übergang vom feudalen zum bürgerlichen Weltbild, Paris 1934
+- Bourdieu, Pierre, Zur Soziologie der symbolischen Formen, Frankfurt 1974 (franz. 1970)
+- Braun, R., W. Fischer , H. Großkreutz, H. Volkmann (Hg.), Gesellschaft in der industriellen Revolution, Köln 1973
+- Breasted, James Henry, The Conquest of Civilization, New York/London, 2. überarbeitete Auflage 1938 (1. Auflage 1926)
+- Brede, Helmut, Barbara Dietrich, Bernhard Kohaupt, Politische Ökonomie des Bodens und Wohnungsfrage, Frankfurt 1976
+- Brede, Helmut, Bestimmungsfaktoren industrieller Standorte. Eine empirische Untersuchung = Schriftenreihe des Ifo-Instituts für Wirtschsftsordnung Nr , 75, Berlin/München 1971
+- Brentjes, Burchard, Von Schanidar bis Akkad, Leipzig/Jena/Berlin 1968
+- Brunow, Nikolai, Entwicklungsetappen der Architektur , Dresden 0.J.
+- Bücher , Karl, Die Entstehung der Volkswirtschaft. Vorträge und Aufsätze, Tübingen (14/15) 1920
+- Childe, Gordon, Cave Men’s Buildings, in: Antiquity März 1950
+- ders., Stufen der Kultur . Von der Urzeit zur Antike, Stuttgart (2) 1955 (engl. 1941)
+- ders., The Urban Revolution, in: Town Planning Review (Liverpool) April 1950
+- Chombart de Lauwe, Paul Henri, Famille et Habitation, Bd. II, Paris 1960
+- City Invincible. A Symposium on Urbanization and Cultural Development in the Ancient Near East (Ed, by Carl H. Kraeling and Robert M. Adams), Chicago 1960
+- Claessens, Dieter und Petra Milhoffer , Familiensoziologie. Ein Reader , Frankfurt 1974
+- Clarke, M.V., The Medieval City State. An Essay on Tyranny and Federation in the Later Middle Ages, London 1926
+- Contenau, Georges, Everyday Life in Babylon and Assyria, London 1954
+- Conze, Werner (Hg.),Sozialgeschichte d. Familie in der Neuzeit Europas, Stuttgart 1976
+- Coon, Carleton S., The History of Man. From the First Human to Primitive Culture and Beyond, London 1955
+- Cooper , David, Tod der Familie, Reinbek 1972 (engl. 1971)
+- Delougaz, Pinhas and Seton Lloyd, Pre-Sargonid Temples in the Diyala Region, Chicago 1942
+- Dobb, Maurice, Entwicklung des Kapitalismus. Vom Spätfeudalismus bis zur Gegenwart, Köln (2) 1972 (engl. 1963)
+- Dopsch, Alfons, Vom Altertum zum Mittelalter . Das Kontinuitätsproblem, in: Archiv für Kulturgeschichte, Jg. 16 (1926)
+- Durkheim, Emile, Les Formes Elementaires de la Vie Religieuse, Paris (5) 1968
+- Ehrenberg, Victor , When did the Polis Rise? In: The Journal of Hellenic Studies, vol. LVII (1937)
+- Elias, Norbert, Die höfische Gesellschaft, Neuwied/Berlin 1969
+- ders., Über den Prozeß der Zivilisation. Soziogenetische und psychogenetische Untersuchungen, 2 Bände, Berlin/München (2) 1969 (1. Auflage 1939)
+- Engels, Friedrich, Der deutsche Bauernkrieg, in: MEW (Marx-Engels-Werke, Hg. vom Institut für Marxismus-Leninismus beim ZK der SED), Berlin (DDR), Bd. 7
+- ders., Der Ursprung der Familie, des Privateigentums und des Staats (1884), In: MEW 21,220,
+- ders., Die Lage der arbeitenden Klassen in England, in: MEW 2, a.a.O.
+- Ennen, Edith, Frühgeschichte der europäischen Stadt, Bonn 1953
+- Erikson, Erik H., Kindheit und Gesellschaft, Stuttgart (5) 1974
+- Erman, Adolf und Hermann Ranke, Ägypten und ägyptisches Leben im Altertum, Tübingen 1923
+- Ernst, W, und M. Steinmetz (Hg.), Städtische Volksbewegungen im 14. Jahrhundert, Berlin (DDR) 1960
+- Fairman, H.W., Town Planning in Pharaonic Egypt, in: Town Planning Review (Liverpool) April 1959
+- Faris, R.E.L. und H.W. Dunham, Mental Discorders in Urban Areas. An Ecological Study of Schizophrenia and other Psychoses, Chicago 1965 (1. Auflage 1939)
+- Fischer , Wolfram, Wirtschaft und Gesellschaft im Zeitalter der Industrialisierung, Göttingen 1972
+- Flierl, Bruno, Gesellschaft und Architektur . Schriftenreihe der Bauforschung, Reihe Städtebau und Architektur 44, Berlin (DDR) 1975
+- Flinders Petrie, W.M., Social Life in Ancient Egypt, London/Bombay/Sidney (2) 1924 (1. Auflage 1923)
+- Foucault, Michel, Überwachen und Strafen. "Die Geburt des Gefängnisses, Frankfurt 1976 (franz. 1975)
+- Fourastie, Jean, Die große Hoffnung des 20. Jahrhunderts, Köln-Deutz 1954 (franz. 1949)
+- Fourier , Charles, Theorie der vier Bewegungen und der allgemeinen Bestimmungen, Frankfurt 1966
+- Frankfort, Henri, Kingship and the Gods. A Study of Ancient Near Eastern Religion as the Integration of Society and Nature, Chicago 1948
+- ders., The Art and Architecture of the Ancient Orient, Harmondsworth (4) 1969 (1. Auflage 1954)
+- ders., The Birth of Civilisation in the Near East, London (2) 1954 (1. Auflage 1951)
+- ders., Town Planning in Ancient Mesopotamia, in: Town Planning Review (Liverpool) 21 (1950)
+- Frazer, James H., Lectures on the Early History of the Kingship, London/New York 1905
+- Freud, Sigmund, Beiträge zur Psychologie des Liebeslebens, in: Gesammelte Werke VII, Frankfurt 1946
+- ders., Das Ich und das Es, in: GW XIII, a.a.O.
+- ders., Der Mann Moses und die monotheistische Religion, in GW XVI, a.a.O.
+- ders., Die ‚kulturelle’ Sexualmoral und die moderne Sexualität, in: GW VII, a.a.O.
+- ders., Eine Kindheitserinnerung des Leonardo da Vinci, in: GW VIII, a.a.O.
+- ders., Massenpsychologie und Ich-Analyse, in: GW XIII, a.a.O.,
+- ders., Trauer und Melancholie, in: GW X, a.a.O,
+- Friedrich Jürgen (Hg.), Stadtentwicklung in kapitalistischen und sozialistischen Ländern, Reinbek 1978
+- De Fusco, Renato, Architektur als Massenmedium, Anmerkungen zu einer Semiotik der gebauten Formen, Gütersloh 1972 = Bauwelt Fundamente Bd. 33 (ital. 1967)
+- Fustel de Coulanges, Der antike Staat. Studie über Kultus, Recht und Einrichtungen Griechenlands und Roms, Graz 1961 (franz. 1864)
+- Gehlen, Arnold, Über Kultur , Natur und Natürlichkeit, in: ders., Anthropologische Forschung, Reinbek (4) 1965
+- ders. und Helmut Schelsky (Hg.), Soziologie. Ein Lehr- und Handbuch zur modernen Gesellschaftskunde, Düsseldorf/Köln 1955 j
+- v. Gerkan, Armin, Griechische Städteanlagen. Untersuchungen zur Entwicklung des Städtebaus im Altertum, Berlin/Leipzig 1924
+- 'Gleichmann, Peter R. und Fritz, Hans-Joachim, Beobachtungen über Büroarbeit und Großraum-Architektur , in: AJAS, Angewandte Sozialforschung (Wien) 6/1977
+- Goldthorpe, John H., David Lockwood, Frank Bechhofer , Jennifer Platt, Der ‚wohlhabende’ Arbeiter in England, München 1970 (engl. 1968)
+- Gottmann, Jean & R.A. Harper (Hg.), Metropolis on the Move. Geographers’ Look at the Urban Sprawl, New York/London/Sidney 1967
+- Grauhan, Rolf-Richard, Lokale Politikforschung, Frankfurt 1975
+- Grossmann, Henryk, Die gesellschaftlichen Grundlagen der mechanistischen Philosophie und die Manufaktur , in: Zeitschrift für Sozialforschung, Jg. IV (1935)
+- Gruber , Karl, Die Gestalt der deutschen Stadt, München, 2. überarb. Auflage 1976
+- Gutkind, E.A., Urban Development in Central Europe, London 1964
+- Habermas, Jürgen, Strukturwandel der Öffentlichkeit, Neuwied 1962
+- Hacker , Winfried, Allgemeine Arbeits- und Ingenieurpsychologie, Berlin (DDR) 1973
+- Hamm, Bernd, Die Organisation der städtischen Umwelt, Frauenfeld/Stuttgart 1977
+- Hausenstein, Wilhelm, Vom Geist des Barock, München 1920
+- Hauser Arnold, Sozialgeschichte der Kunst und Literatur , München 1967 (1. Aufl.)
+- Haverfield, F., Ancient Town Planning, Oxfort 1913
+- Heckscher , Eli F,, Der Merkantilismus, 2 Bände, Jena 1932
+- Hegel, G.W,F. Vorlesungen über die Philosophie der Geschichte, Theorie-Werkausgabe, Frankfurt 1971, Bd. 12
+- ders., Vorlesungen über die Ästhetik I und II, in: Theorie-Werkausgabe, a.a.0., Bd.13 und Bd. 14
+- v. Hegel, Karl, Städte und Gilden der germanischen Völker im Mittelalter , 2 Bände, Neudruck der Ausgabe Leipzig 1891, Aalen 1962
+- Heil, Karolus, Kommunikation und Entfremdung. Menschen am Stadtrand. Legende und Wirklichkeit, Stuttgart/Bern 1971
+- Heinrich, E., Die Stellung der Uruk-Tempel in der Baugeschichte; in: Zeitschrift für Assyrologie (Berlin) 1950
+- Helms, Hans G. und Jörn Janssen, Kapitalistischer Städtebau, Neuwied 1970
+- Hempel, Eberhard, Baroque Art and Architecture in Central Europe, Harmondsworth 1965
+- Herlyn, Ulfert (Hg.), Stadt- und Sozialstruktur . München 1974
+- ders. und H.J. Schaufelberger , Innenstadt und Erneuerung. Eine soziologische Analyse historischer Zentren mittelgroßer Städte, Göttingen 1971 = Schriftenreihe „Städtebauliche Forschung” des Bundesministers für Städtebau und Wohnungswesen 03.007, Braunschweig 1972
+- Herold, Detlef, Die weltweite Vergroßstädterung, Diss. FU Berlin, Berlin 1972
+- Hessisches Städtebuch (Hg. Erich Keyser) = Bd. IV des Deutschen Städtebuchs, Stuttgart 1957
+- Hillebrecht, Rudolf, Wertmaßstäbe im Bereich von Architektur und Städtebau der Ge-Be in: Zeitschrift für Stadtgeschichte, Stadtsoziologie und Denkmalpflege 3.Jg.
+- Hobsbawn, Eric, Europäische Revolutionen, München 1962 (engl. 1962)
+- Hocart, Arthur M., Kingship, London 1941
+- Horkheimer , Max, Anfänge der bürgerlichen Geschichtsphilosophie, Stuttgart 1930
+- ders. und Theodor W. Adorno, Dialektik der Aufklärung (1944), Frankfurt 1969
+- ders., Gesellschaft im Übergang, Frankfurt 1972
+- ders., Kritische Theorie der Gesellschaft, Bd. I, Frankfurt 1968
+- ders., Kritische Theorie der Gesellschaft, Bd. II, Frankfurt 1968
+- ders., Studien über Autoriät und Familie, Paris 1936
+- ders., Vernunft und Selbsterhaltung (1941/42), in: Autoritärer Staat, Amsterdam 1967
+- ders., Zur Kritik der instrumentellen Vernunft. Ausden Vorträgen und Aufzeichnungen seit Kriegsende (Hg. Alfred Schmidt), Frankfurt 1974
+- Howard, Ebenezer , Gartenstädte von morgen. Das Buch und seine Geschichte (Hg. Julius Posener), Berlin 1968 = Bauwelt Fundamente 21
+- Ipsen, Gunter (Hg.), Daseinsformen der Großstadt. Typische Formen sozialer Existenz in Stadtmitte, Vorstadt und Gürtel der industriellen Großstadt, Tübingen 1959
+- ders., Die Stadt (IV), in: Handwörterbuch der Sozialwissenschaften, Bd. 9, Stuttgart/Tübingen/Göttigen 1956
+- Jacobsohn, Helmuth, Die dogmatische Stellung des Königs in der Theologie der Alten Ägypter , in: Ägyptologische Forschungen, Glückstadt/Hamburg/New York 1939
+- Jacobson, Thorkild, Primitive Democracy in Ancient Mesopotamia, in: Journal of Near Eastern Studies, vol. II (Jul. 1943)
+- Johansen, Erna, Betrogene Kinder . Eine Sozialgeschichte der Kindheit, Frankfurt 1978
+- Kade, Gunnar und Karl Vorlaufer , Grundstücksmobilität und Bauaktivität im Prozeß des Strukturwandels citynaher Wohngebiete. Beispiel Frankfurt/M.-Westend, Seminar für Wirtschaftsgeographie, Frankfurt 1974
+- Kapelrud, Arvid S., Die Ras-Schamra-Funde und das Alte Testament, 1967
+- Kenyon, Kathleen, Earliest Jericho, in: Antiquity, a quarterly Review of Archaeology (London), vol. 33 (1959)
+- Kerenyi, Karl, Antike Religion, Wiesbaden 1971
+- Köllmann, Wolfgang, Bevölkerung in der industriellen Revolution, Göttingen 1974
+- Koldewey, Robert, Das wiedererstehende Babylon, Leipzig, 4. erweiterte Auflage 1925
+- König, Rene, Großstadt, in: Handbuch der empirischen Sozialforschung (Hg. R. König und E. Scheuch) II. Band, Stuttgart 1969
+- Kosta, Jifi, Jan Meyer , Sibylle Weber , Warenproduktion im Sozialismus, Frankfurt 1973
+- Kriedte, Medick und Schlumbohm, Industrialisierung vor der Industrialisierung, Göttingen 1977
+- Kris, Ernst, Approaches to Art, in: Psycho-Analysis To-day (ed.by S. Lorand), New York (4) 1950
+- Kromrey, Helmut, Die gebaute Umwelt aus der Perspektive ihrer Bewohner . Eine empirische Analyse der Zusammehänge zwischen geplanter Wohnumwelt und Bewohnerurteil sowie Verhaltensorientierung, (Dissertationsdruck) Dortmund 1978
+- Kuhn, Emil, Über die Entstehung der Städte der Alten. Komenverfassung und Synoikismus, Leipzig 1878
+- Kulischer , Josef, Allgemeine Wirtschaftsgeschichte. Bd. II, Die Neuzeit, München/Berlin 1929
+- Laslett, Peter und Richard Wall (Hg.), Houshold and Family in Past Time, Cambridge 1972
+- Layard, John, Familie und Sippe, in: Institutionen in primitiven "Gesellschaften, Frankfurt 1967 (engl. 1956)
+- Lefebvre, Henri, Die Stadt im marxistischen Denken, Ravensburg 1975 (franz. 1972)
+- Le Corbusier , Feststellungen zu Architektur und Städtebau, Berlin 1964 = Bauwelt Fundamente Bd. 12 (franz. 1929)
+- Lenzen, Heinrich J., Die Entwicklung der Zikurrat. Von ihren Anfängen bis zur Zeit der III. Dynastie von Ur , Leipzig 1941
+- Leroi-Gourhan, Andre, Les Religion de la Prehistoire (Paleolithique), Paris 1964
+- zur Lippe, Rudolf, Naturbeherrschung am Menschen I, Körpererfahrung als Entfaltung von Sinnen und Beziehungen in der Ära des italienischen Kaufmannskapitals, Frankfurt 1974
+- Lorenzer Alfred, Städtebau: Funktionalismus und Sozialmontage? Zur Brchologischen Funktion der Architektur , in: Architektur als Ideologie (Hg. H. Berndt, K. Horn, A. Lorenzer), Frankfurt 1968
+- ders., Zur Begründung einer materialistischen Sozialisationstheorie, Frankfurt 1972
+- Lüdtke, Hartmut, Freizeit in der Industriegesellschaft, Emanzipation oder Anpassung? Opladen 2. überarb. Aufl. 1975
+- G. Lüschen und E. Lupri (Hg.), Köln/Opladen 1970 = Sonderheft 14 der Kölner Zeitschrift für Soziologie und Sozialpsychologie
+- Lützeler , Heinrich, Europäische Baukunst im Überblick. Architektur und Gesellschaft, Freiburg 1969
+- Mackensen, Rainer , Städte in der Statistik. in: Pehnt, Wolfgang, Die Stadt in der Bundesrepublik, Stuttgart 1974
+- Mahler , Margaret und Michael Furer , Symbiose und Individuation, Stuttgart 1972 (amerik. 1968)
+- Malinowksi, Bronislaw, Geschlecht und Verdrängung in primitiven Gesellschaften, Frankfurt (3) 1977
+- Marx, Karl, Das Elend der Philosophie, in: MEW 4, a.a.O.
+- ders., Das Kapital, Berlin 1961, 3 Bände
+- ders., Die britische Herrschaft in Indien (1853), in: MEW 9, a.a.O.
+- ders. und Friedrich Engels, Die Deutsche Ideologie, in: MEW 3, a.a.O.
+- ders., Grundrisse der Kritik der Politischen Ökonomie (1857-1858), Frankfurt/Wien 0.J.
+- ders. und Friedrich Engels, Manifest der Kommunistischen Partei, in: MEW, a.a.O.
+- ders., Ökonomisch-philosophische Manuskripte (1844), MEW Ergänzungsband 1, 2.2.0.
+- Martwich, Barbara, Vom Stadt-Land-Gegensatz zum Stadt-Umland-Problem. Soziologische Theorien zum Verhältnis von Stadt und Land, (Dissertations-Manuskript) Göttingen 1976
+- Matzerath, Horst, Von der Stadt zur Gemeinde, in: Archiv für Kommunalwissenschaften, 13. Jg. (1974)
+- Mauersberg, Hans, Wirtschafts- und Sozialgeschichte zentraleuropäischer Städte in neuer Zeit. Dargestellt an den Beispielen v. Basel, Frankfurt/Main, Hamburg, Hannover und München, Göttingen 1969
+- Mauke, Michael, Die Klassentheorie von Marx und Engels, Frankfurt 1970
+- v. Maurer , Georg L., Geschichte der Städteverfassung in Deutschland, 4 Bände, Neudruck der Ausgabe Erlangen 1869, Aalen 1962
+- de Mause, Lloyd (Hg.), Hört ihr die Kinder weinen. Eine psychogenetische Geschichte der Kindheit, Frankfurt 1977
+- Meadows, Dennis, Die Grenzen des Wachstums, Stuttgart 1972
+- Mellaart, James, Chatal Hüyük. Stadt aus der Steinzeit, Bergisch Gladbach 1967, (engl. 1967)
+- Mitscherlich, Alexander , Auf dem Weg zur vaterlosen Gesellschaft, München 1963
+- ders., Die Unwirtlichkeit unserer Städte. Anstiftung zum Unfrieden, Frankfurt 1965
+- Moersch, Emma, Sozialpsychologische Reflexionen zum Symptomwandel psychischer Störungen, in: Psyche 5/6 1978, Jg. 32
+- Moortgat, Anton, Die Entstehung der sumerischen Hochkultur , Leipzig 1945 = Der Alte Orient, Bd. 43
+- Moret, Alexandre & Georges Davy, From Tribe to Empire. Social Organization among Primitives and in the Ancient East, London/New York 1926
+- Morgan, Lewis H., Die Urgesellschaft, Stuttgart 1891
+- Mottek, Hans, Wirtschaftsgeschichte Deutschlands, Berlin (DDR) 1968, 2 Bände
+- Müller , Michael, Die Verdrängung des Ornament. Zum Verhältnis von Architektur und Lebenspraxis, Frankfurt 1977
+- Müller , Werner und Gunther Vogel, dtv-Atlas zur Baukunst, Bd. 1, Baugeschichte von Mesopotamien bis Byzanz, München 1974
+- Mumford, Lewis, Die Stadt. Geschichte und Ausblick, Köln 1963 (amerik. 1961)
+- Negt, Oskar und Alexander Kluge, Öffentlichkeit und Erfahrung. Zur Organisationsanalyse von bürgerlicher und proletarischer Öffentlichkeit, Frankfurt 1972
+- Die politische Ökonomie des Sozialismus und seine Anwendung in der DDR, Berlin (DDR) 1969
+- Oevermann, Ulrich, Schichtenspezifische Formen des Sprachverhaltens und ihr Einfluß auf die kognitiven Prozesse, in: Roth, Heinrich (Hg.), Begabung und Lernen, Stuttgart 1968
+- Osterland, Martin, Arbeitssituation, Lebenslage und Konfliktpotential, Frankfurt 1975
+- Park, Robert E. und Burgess McKenzie, The City, Chicago 1925
+- Parsons, Anne, Besitzt der Ödipuskomplex universelle Gültigkeit? Eine kritische Stellungnahme zur Jones-Malinowski-Kontroverse sowie die Darstellung eines süditalienischen Kernkomplexes, in: Muensterberger , Werner (Hg.), Der Mensch und seine Kultur , München 1974 (amerik. 1969)
+- Piers, Gerhart, Die drei Gewissen des Abendlandes, in: Psyche 28 (1974)
+- Pirenne, Henri, Geschichte Europas, von der Völkerwanderung bis zur Reformation, Frankfurt 1961
+- ders., Les Villes et les Institutiones Urbaines, Paris und Bruxelles (5) 1939
+- Planitz, Hans, Die deutsche Stadt im Mittelalter . Von der Römerzeit bis zu den Zunftkämpfen, Graz/Köln (2) 1965 (1. Aufl. 1954)
+- ders., Kaufmannsgilde und städtische Eidgenossenschaft in niederfränkischen Städten im 11. und 12. Jahrhundert, in: Zeitschrift für Rechtsgeschichte, Germanische Abteilung (Savigny Stiftung), Jg. 60 (1940)
+- Pöhlmann, Robert, Die Überbevölkerung der antiken Großstädte im Zusammenhang mit der Gesamtentwicklung städtischer Zivilisation, Leipzig 1884
+- Pohl, Walfried, Wie Architektur langweilig wird, in: Architektur und Städtebau im 20. Jh. (Hg. Joachim Petsch), Berlin 1975
+- Preusser , Conrad, Die Wohnhäuser in Assur , Berlin 1954
+- Reallexikon der indogermanischen Altertumskunde, Berlin 1917-1923
+- Reck, Siegfried, Arbeiter nach der Arbeit. Sozialhistorische Studie zu den Wandlungen des Arbeiteralltags, Gießen 1977
+- Renard, G. und G. Weulersse, Life and Work in Modern Europe. 15th-18th Centuries, London/New York 1926
+- Reulecke, Jürgen (Hg.), Die deutsche Stadt im Industriezeitalter , Wuppertal 1978
+- Richter , Horst Eberhard, Eltern, Kind und Neurose, Reinbek 1969
+- Riesman, David, Reuel Denney und Nathan Glazer , Die einsame Masse. Eine Untersuchung der Wandlungen des amerikanischen Charakters, Reinbek 1958 (amerik. 1950)
+- Robertson, D.S., A Handbook of Greek and Roman Architecture, Cambridge (2) 1954 (1. Auflage 1929)
+- Rörig, Fritz, Die europäische Stadt, in: Propyläen-Weltgeschichte, Bd. IV (Das Zeitalter der Gotik und Renaissance 1250-1500), Berlin 1932
+- Rosdolsky, Roman, Zur Entstehungsgeschichte des Marxschen ‚Kapital’, Frankfurt 1968
+- Rosenbaum, Heidi (Hg.), Seminar Familie und Gesellschaftsstruktur . Materialien zu den sozioökonomischen Bedingungen von Familienreformen, Frankfurt 1978
+- Rossi, Aldo, Die Architektur der Stadt, Skizze zu einer grundlegenden Theorie des Urbanen, Düsseldorf 1973 = Bauwelt Fundamente Bd. 41 (ital. 1966)
+- Rousseau, Jean-Jacques, Emile oder über die Erziehung (Hg. Martin Rang), Stuttgart 1970
+- Sachs, Hanns, Kunst und Persönlichkeit, in: Imago 15 (1920)
+- Schäfers, Bernhard, Elendsviertel und Verstädterung in Lateinamerika, Sozialforschungsstelle an der Universität Münster o.J.
+- ders., Phasen der Stadtbildung und Verstädterung, in: Zeitschrift für Stadtgeschichte, Stadtsoziologie und Denkmalpflege, 4. Jg. (1977)
+- ders., Über einige Zusammenhänge zwischen der Entwicklung suburbaner Räume, gesellschaftlichen Prozessen und Sozialverhalten, in: Beiträge zum Problem der Suburbanisierung = Veröffentlichungen der Akademie für Raumforschung und Landesplanung, Hannover 1975
+- Schelsky, Helmut, Auf der Suche nach der Wirklichkeit, Düsseldorf/Köln 1965
+- ders., Soziologie der Sexualität, Reinbek 1955
+- ders., Wandlungen der deutschen Familie in der Gegenwart, Stuttgart (4) 1960
+- Schiller , Friedrich, Über die ästhetische Erziehung des Menschen, in: Sämtliche Werke, Stuttgart 1862, Bd. 12 (=23. Brief)
+- Schmoller , Gustav, Deutsches Städtewesen in älterer Zeit, Bonn/Leipzig 1922
+- ders., Die soziale Frage. Klassenbildung, Arbeiterfrage, Klassenkampf, München/Leipzig 1918
+- Schneider, Anna, Die sumerische Tempelstadt, in: Plenge, Staatswissenschaftliche Beiträge, Heft IV: Die Anfänge der Kulturwirtschaft, Essen 1920
+- Schneider, Christian, Städtebau in der DDR, in: Stadtbauwelt 30 = Bauwelt 25/26, 62. Jg. (1971)
+- Schneider, Hanne, Segregation und Ghettobildung in der Großstadt, in: Zeitschrift für Stadtgeschichte, Stadtsoziologie und Denkmalpflege, 4. Jg. (1977)
+- Schnerb, Robert, Das bürgerliche Zeitalter . Europa als Weltmacht (1815-1914), München 1971 (nach der 5. franz. Auflage 1968)
+- Schuchardt, Carl, Hof, Burg und Stadt bei Germanen und Griechen, in: Neue Jahrbücher für das klassische Altertum, Geschichte und deutsche Literatur (Leipzig) 1908
+- Schwenzner , Walter , Zum altbabylonischen Wirtschaftsleben, in: Mitteilungen der Vorderasiatischen Gesellschaft, 19. Jg. (1914)
+- Shorter , Edward, Die Geburt der modernen Familie, Reinbek 1977 (amerik. 1975)
+- Siegrist, Johannes, Lehrbuch der medizinischen Soziologie, 2. überarbeitete Auflage München 1975
+- Simmel, Georg, Die Großstädte und das Geistesleben (1903), in: C. Wright Mills (Hg.), Klassik der Soziologie, Frankfurt 1960
+- Sitte, Camillo, Der Städtebau nach seinen künstlerischen Grundsätzen. Ein Beitrag zur Lösung modernster Fragen der Architektur und monumentalen Plastik unter besonderer Beziehung auf Wien, Wien (2.) 1889
+- Soziologische Exkurse, Frankfurter Beiträge zur Soziologie, Bd. 4, Frankfurt 1956
+- Spitz, Rene, Hospitalismus (1945), in: Mitscherlich, Alexander et al. (Hg.), Der Kranke in der modernen Gesellschaft, Köln 1967
+- Szabo, Arpad, Altmediterranes Königtum und seine Bedeutung für die Anfänge des griechischen Staates, in: Die Welt als Geschichte, Bd. 6, Stuttgart 1940
+- Steinbach, Franz, Bemerkungen zum Städteproblem, in: Rheinische Vierteljahresblätter , Jg. 7 (1937)
+- ders., Stadtgemeinde und Landgemeinde. Studien zur Geschichte des Bürgertums, in: Rheinische Vierteljahresblätter , Jg. 13 (1948)
+- Stöber , Gerhard, Struktur und Funktion der Frankfurter City. Eine ökologische Untersuchung der Stadtmitte, Frankfurt 1964
+- Strohecker , Karl Friedrich, Um die Grenze zwischen Antike und abendländischem Mittelalter , in: Saeculum Jg. 1 (1950)
+- Thienel, Ingrid, Städtewachstum im Industrialisierungsprozeß des 19. Jh. = Veröffentlichung der Historischen Kommission zu Berlin, Bd. 39, Berlin/New York 1973
+- Thompson, E.P., The Making of the English Working Class, Harmondsworth 1968 (1. Auflage 1963)
+- Thomson, George, Die ersten Philosophen, Berlin (DDR) 1961 (engl. 1955)
+- ders., Frühgeschichte Griechenlands und der Ägäis, Berlin (DDR) 1960 (engl. 1949)
+- Thurnwald, Richard, Staat und Wirtschaft in Babylon zu Hammurabis Zeit, in: Jahrbuch für Nationalökonomie und Statistik, Teil I (1903), Bd. 26, Teil II (1904), Bd. 27
+- Unger , Eckhard, Das Stadtbild von Assur , in: Der Alte Orient (Leipzig), vol. 27 (1929)
+- Ward Perkins, J.B., Early Roman Towns in Italy, in: Town Planning Review (Liverpool), vol. XXVI (Oct. 1955)
+- Weber , Max, Die protestantische Ethik. Eine Aufsatzsammlung (Hg. Joh. Winckelmann), München/Hamburg 1965 (1. Auflage 1920)
+- ders., Soziologie, Universalgeschichtliche Analysen, Politik, (Hg. Joh. Winckelmann), Stuttgart (5) 1973
+- ders., Wirtschaft und Gesellschaft, Köln (5) 1964, 2 Bände
+- Webster , T.B.L., Von Mykene bis Homer . Anfänge griechischer Literatur und Kunst im Lichte von Linear B, München/Wien 1960 (engl. 1958)
+- Werner , Ernst und M. Steinmetz (Hg.), Städtische Volksbewegungen im 14. Jh., Berlin (DDR) 1960
+- Wittfogel, Karl August, Die orientalische Despotie. Eine vergleichende Untersuchung totaler Macht, Köln 1962
+- ders., Geschichte der bürgerlichen Gesellschaft. Von ihren Anfängen bis zur Schwelle der großen Revolution, Berlin 0.J. (1924)
+- ders., Marxismus und Wirtschaftsgeschichte, Frankfurt 1970
+- Woolley, Leonard C., Ur of the Chaldees. A Record of Seven Years of Excavation, Harmondsworth (8) 1938 (1. Aufl. 1929)
+- ders., Vor 5000 Jahren. Die Ausgrabungen von Ur und die Geschichte der Sumerer , Stuttgart 0.J.
+- Wulff, Erich, Psychiatrie und Klassengesellschaft, Frankfurt 1972
+- Wycherley, R.E., Hellenic Cities, in: Town Planning Review (Liverpool), vol. XXII (1951)
+- ders., How the Greeks Built Cities, London (2) 1962 (1. Auflage 1949)
+- Young, Michael und Peter Willmott, The Symmetrical Family. A Study of Work and Leisure in the London Region, Harmondsworth 1975 (1. Aufl. 1973)
+- Zimmern, Heinrich, Zum babylonischen Neujahrsfest (1903) = Berichte über die Verhandlungen der Königlich-Sächsischen Gesellschaft der Wissenschaften zu Leipzig, Philologisch-Historische Klasse, Teil I (1906), Bd. 58, Teil II (1918), Bd. 70
+- Zinserling, Gerhard, Abriß der griechischen und römischen Kunst, Leipzig

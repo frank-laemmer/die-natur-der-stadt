@@ -2,9 +2,14 @@
 
 - - -
 
-_2026-02-05. STATUS: Unvollständig! Digitalisiert von Frank Lämmer. Mehr Informationen zu dieser Ausgabe: [github.com/frank-laemmer/die-natur-der-stadt](https://github.com/frank-laemmer/die-natur-der-stadt)_
+_Digitalisiert von Frank Lämmer 2026-02-08. Mehr Informationen zu dieser Ausgabe: [github.com/frank-laemmer/die-natur-der-stadt](https://github.com/frank-laemmer/die-natur-der-stadt)_
 
-- - -
+## Klappentext
+
+Stadt und Natur in ihrer heutigen Gestalt sind Resultate eines langen historischen Prozesses. Heide Berndt stellt in ihrer Analyse dar, wie sich in seinem Verlauf die beiden Extreme wechselseitig durchdringen, um schließlich als feindliche Gegensätze zu erscheinen. Sie zeigt, wie durch den Verstädterungsprozeß die innere und äußere Natur des Menschen verändert wird und damit ihre Ursprünglichkeit verliert. Die Entwicklung der Stadt ist daher gleichbedeutend mit dem historischen Prozeß, in dem das Gattungswesen Mensch zum Individuum wird. Sobald es aus dem unmittelbaren Naturzusammenhang heraustritt, schafft es sich in der Architektur eine "künstliche" Umwelt, die Ausdruck des gerade erreichten Standes der Auseinandersetzung von Mensch und Natur ist. Entgegen einer häufig bloß ästhetischen Untersuchung der Architektur wird hier der Versuch gemacht, an einzelnen Beispielen den sozialen Gehalt architektonischer For-
+men zu entschlüsseln. Indem Heide Berndt den modernen städtischen Sozialcharakter aus seiner widersprüchlichen Vergesellschaftung versteht, kann sie gleichermaßen die positiven wie negativen Momente der Urbanisierung herausarbeiten. So erweist sich zwar die städtische Lebensweise als Bedingung der Möglichkeit menschlicher Individualität und eines humanen Verhältnisses zur Natur: es zeigt sich jedoch, daß erst eine gesellschaftliche Produktion, die sich nicht als Produktion von Waren, sondern einer menschenwürdigen Umwelt begreift, eine Entwicklung einleiten kann, in der die Stadt zum Lebenszentrum autonomer gesellschaftlicher Individuen wird.
+
+## Einleitung
 
 Die Arbeit versucht die Veränderung des Individuums durch den Verstädterungsprozeß zu begreifen. Die heutigen Stadtmenschen sind andere als die ersten Stadtbewohner von Jericho. Mit dem Nachweis dieser epochalen Wandlungen stellt sich zugleich die Frage nach der heutigen Gesellschaftsstruktur und der Prägung eigener Verhaltensweisen durch den historischen Prozeß. Hier ist deshalb das Thema der Arbeit mit der Beantwortung persönlicher Fragestellungen verknüpft.
 

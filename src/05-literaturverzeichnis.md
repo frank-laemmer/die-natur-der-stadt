@@ -104,11 +104,11 @@ Dieses Literaturverzeichnis ist lediglich die alphabetische Zusammenfassung alle
 - Hacker , Winfried, Allgemeine Arbeits- und Ingenieurpsychologie, Berlin (DDR) 1973
 - Hamm, Bernd, Die Organisation der städtischen Umwelt, Frauenfeld/Stuttgart 1977
 - Hausenstein, Wilhelm, Vom Geist des Barock, München 1920
-- Hauser Arnold, Sozialgeschichte der Kunst und Literatur , München 1967 (1. Aufl.)
-- Haverfield, F., Ancient Town Planning, Oxfort 1913
-- Heckscher , Eli F,, Der Merkantilismus, 2 Bände, Jena 1932
-- Hegel, G.W,F. Vorlesungen über die Philosophie der Geschichte, Theorie-Werkausgabe, Frankfurt 1971, Bd. 12
-- ders., Vorlesungen über die Ästhetik I und II, in: Theorie-Werkausgabe, a.a.0., Bd.13 und Bd. 14
+- Hauser, Arnold, Sozialgeschichte der Kunst und Literatur , München 1967 (1. Aufl.)
+- Haverfield, F., Ancient Town Planning, Oxford 1913
+- Heckscher, Eli F., Der Merkantilismus, 2 Bände, Jena 1932
+- Hegel, G.W.F. Vorlesungen über die Philosophie der Geschichte, Theorie-Werkausgabe, Frankfurt 1971, Bd. 12
+- ders., Vorlesungen über die Ästhetik I und II, in: Theorie-Werkausgabe, a.a.O., Bd. 13 und Bd. 14
 - v. Hegel, Karl, Städte und Gilden der germanischen Völker im Mittelalter , 2 Bände, Neudruck der Ausgabe Leipzig 1891, Aalen 1962
 - Heil, Karolus, Kommunikation und Entfremdung. Menschen am Stadtrand. Legende und Wirklichkeit, Stuttgart/Bern 1971
 - Heinrich, E., Die Stellung der Uruk-Tempel in der Baugeschichte; in: Zeitschrift für Assyrologie (Berlin) 1950
@@ -119,7 +119,7 @@ Dieses Literaturverzeichnis ist lediglich die alphabetische Zusammenfassung alle
 - Herold, Detlef, Die weltweite Vergroßstädterung, Diss. FU Berlin, Berlin 1972
 - Hessisches Städtebuch (Hg. Erich Keyser) = Bd. IV des Deutschen Städtebuchs, Stuttgart 1957
 - Hillebrecht, Rudolf, Wertmaßstäbe im Bereich von Architektur und Städtebau der Ge-Be in: Zeitschrift für Stadtgeschichte, Stadtsoziologie und Denkmalpflege 3.Jg.
-- Hobsbawn, Eric, Europäische Revolutionen, München 1962 (engl. 1962)
+- Hobsbawm, Eric, Europäische Revolutionen, München 1962 (engl. 1962)
 - Hocart, Arthur M., Kingship, London 1941
 - Horkheimer , Max, Anfänge der bürgerlichen Geschichtsphilosophie, Stuttgart 1930
 - ders. und Theodor W. Adorno, Dialektik der Aufklärung (1944), Frankfurt 1969
@@ -142,7 +142,7 @@ Dieses Literaturverzeichnis ist lediglich die alphabetische Zusammenfassung alle
 - Köllmann, Wolfgang, Bevölkerung in der industriellen Revolution, Göttingen 1974
 - Koldewey, Robert, Das wiedererstehende Babylon, Leipzig, 4. erweiterte Auflage 1925
 - König, Rene, Großstadt, in: Handbuch der empirischen Sozialforschung (Hg. R. König und E. Scheuch) II. Band, Stuttgart 1969
-- Kosta, Jifi, Jan Meyer , Sibylle Weber , Warenproduktion im Sozialismus, Frankfurt 1973
+- Kosta, Jiří, Jan Meyer, Sibylle Weber, Warenproduktion im Sozialismus, Frankfurt 1973
 - Kriedte, Medick und Schlumbohm, Industrialisierung vor der Industrialisierung, Göttingen 1977
 - Kris, Ernst, Approaches to Art, in: Psycho-Analysis To-day (ed.by S. Lorand), New York (4) 1950
 - Kromrey, Helmut, Die gebaute Umwelt aus der Perspektive ihrer Bewohner . Eine empirische Analyse der Zusammehänge zwischen geplanter Wohnumwelt und Bewohnerurteil sowie Verhaltensorientierung, (Dissertationsdruck) Dortmund 1978

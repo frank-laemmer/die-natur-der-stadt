@@ -1,8 +1,19 @@
 # Vorwort
 
-- - -
 
-_Digitalisiert von Frank Lämmer 2026-02-08. Mehr Informationen zu dieser Ausgabe: [github.com/frank-laemmer/die-natur-der-stadt](https://github.com/frank-laemmer/die-natur-der-stadt)_
+_Digitalisiert von Frank Lämmer 2026. Mehr Informationen zu dieser Ausgabe: [github.com/frank-laemmer/die-natur-der-stadt](https://github.com/frank-laemmer/die-natur-der-stadt)_
+
+```plain
+title: Die Natur der Stadt
+author: Heide Berndt
+publisher: Verlag Neue Kritik
+date: 1978
+isbn-13: 978-3801501587
+isbn-10: 3801501582
+rights: Frank Lämmer
+```
+
+- - -
 
 ## Klappentext
 
@@ -21,7 +32,7 @@ Das Vorhaben dieser Arbeit besteht darin, solche unklaren, dennoch starken Motiv
 
 Es geht mir um die Artikulation eines Lebensgefühls, das urban ist und durch die barbarische Umgestaltung unserer Städte empfindlich gestört wird. Unsere Sehnsucht nach einer Umwelt, die diesem Lebensgefühl entspricht, kann nicht die Verneinung des Verstädterungsprozesses bedeuten. Die Idealisierung stadtferner Lebensformen schließt die Verdrängung des geschichtlichen Prozesses ein, dem sich doch gerade der Reichtum unserer Individualität verdankt.
 
-Landkommunen sind keine Alternative zur Stadt. Die bloße Rückkehr zu vorindustriellen Arbeitsweisen verleugnet die Vielfalt der menschlichen Produktionsmöglichkeiten, den Reichtum der Genüsse und die Intensivierung des Lebensgefühls, wie sie durch das städtische Zusammenleben gefördert wurden. Den unbegriffenen Verstädterungserscheinungen wird ein ebenso unverstandener Naturzustand entgegengesetzt. Un das Verhältnis von Stadt und Natur zu erhellen, wird hier der Betrachtung der Lebensformen, die aller Stadtbildung vorangingen, ein großer Stellenwert eingeräumt. Denn viele Elemente dieser Lebensformen prägten die frühesten städtischen Institutionen. Indem sie aber in die städtischen Verhältnisse übernommen wurden, entfremdeten sie sich ihrem ursprünglichen Sinn.
+Landkommunen sind keine Alternative zur Stadt. Die bloße Rückkehr zu vorindustriellen Arbeitsweisen verleugnet die Vielfalt der menschlichen Produktionsmöglichkeiten, den Reichtum der Genüsse und die Intensivierung des Lebensgefühls, wie sie durch das städtische Zusammenleben gefördert wurden. Den unbegriffenen Verstädterungserscheinungen wird ein ebenso unverstandener Naturzustand entgegengesetzt. Um das Verhältnis von Stadt und Natur zu erhellen, wird hier der Betrachtung der Lebensformen, die aller Stadtbildung vorangingen, ein großer Stellenwert eingeräumt. Denn viele Elemente dieser Lebensformen prägten die frühesten städtischen Institutionen. Indem sie aber in die städtischen Verhältnisse übernommen wurden, entfremdeten sie sich ihrem ursprünglichen Sinn.
 
 Anstelle der Definition der Stadt und des Städtischen habe ich versucht, das Moment der Identität wie auch des Formwandels von Stadt und Land herauszuarbeiten. Ich gebrauche den Begriff Stadt in einem sehr weiten Sinne, so wie er in der Umgangssprache zunächst auch auf die verschiedenartigsten Stadtgebilde angewendet wird. Die Stadt ist weder als Chiffre für ein Ensemble architektonischer Gegebenheiten zu verstehen, noch als bloße Menschenansammlung auf begrenztem Raum. Sie ist vielmehr ein soziales Gebilde, in dem die menschlichen Beziehungen tiefgreifenden Veränderungen unterworfen wurden.
 

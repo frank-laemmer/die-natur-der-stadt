@@ -547,7 +547,7 @@ Das geänderte Elternverhältnis und die verringerte Kinderzahl ermöglichen ein
   rungswachstum einschränkten, so übernahm jetzt die Familie selbst die Kontrolle über
   die Folgen des sexuellen Verkehrs und reduzierte die Zahl ihrer Nachkommenschaft
   drastisch. Mackenroth, Bevölkerungslehre, a.a.O., S. 75
-  [^4-168]: Young & Willmott, The Symmetrical Family, a.a.0.,S.90
+  [^4-168]: Young & Willmott, The Symmetrical Family, a.a.O., S. 90
   [^4-169]: ebd., S. 88/89
 
 Die Flexibilität des Rollenspiels, zu der der heutige Erwachsene fähig sein muß, wird bereits in den frühkindlichen Beziehungen aufgebaut, von deren Qualität es abhängt, ob ein Individuum ein hohes oder ein niedriges Niveau der Sprachfähigkeit erwirbt.[^4-170] Je deutlicher sich der Zusammenhang zwischen seelischer Entwicklung, Ausbildung intellektuell-kognitiver Fähigkeiten und liebevollen Bemutterungstechniken abzeichnet, in dem die Ursachen schwerer seelischer Störungen bei Kindern erforscht wurden,[^4-171] um so bedeutsamer erscheint die als bloß privat abgespaltene Funktion der Familie: den Bereich des Gefühlsmäßigen zu kultivieren, vor allem die primären Gefühlsbeziehungen der Kinder zu gestalten.

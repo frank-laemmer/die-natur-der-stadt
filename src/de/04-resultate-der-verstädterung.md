@@ -304,9 +304,10 @@ Auf die "Verdrängung des Ornaments" erfolgte, wie Alfred Lorenzer in "Architekt
   [^4-91]: Lorenzer, Alfred, Städtebau: Funktionalismus und Sozialmontage? a.a.O., S. 52
   [^4-92]: ebd., S. 53
 
-
-
-
+![Le Corbusier](../images/abbildung-16.jpg)
+![Dresden und Chicago](../images/abbildung-17.jpg)
+![Leipzig und Berlin](../images/abbildung-18.jpg)
+![Le Corbusier](../images/abbildung-19.jpg)
 
 Unter dem modernen Herrschaftscharakter verkümmern die ästhetischen Kompetenzen, die in den vorbürgerlichen Gesellschaften von den herrschenden Klassen gepflegt worden waren.
 

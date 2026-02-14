@@ -32,10 +32,10 @@ Die Endformate können aus den Markdown-Dateien erstellt werden. Pandoc ist ein 
 
 ```shell
   # Create epub ebook
-  pandoc --toc src/metadata.txt src/*.md -o die-natur-der-stadt.epub --css=src/epub.css
+  pandoc --toc src/de/metadata.txt src/de/*.md -o die-natur-der-stadt.epub --css=src/de/epub.css --resource-path=src/de:src/images
 
   # Create PDF ebook
-  pandoc src/metadata.txt src/*.md -o die-natur-der-stadt.pdf
+  pandoc --resource-path=src/de:src/images src/de/metadata.txt src/de/*.md -o die-natur-der-stadt.pdf
 
   # OCR my PDF (text detection for the scanned book)
   ocrmypdf -l deu scans/Buchscan.pdf scans/Buchscan-ocr.pdf
@@ -49,8 +49,6 @@ Dieser Text hier ist mit freundlicher Genehmigung des Verlag Neue Kritik veröff
 
 frank@franklaemmer.de
 
-
 ## Notizen
 
 - `ἀρχιτέκτων` 4 -> 340 entfernt wegen pdflatex
-- 

@@ -35,7 +35,8 @@ Die Endformate können aus den Markdown-Dateien erstellt werden. Pandoc ist ein 
   pandoc --toc src/de/metadata.txt src/de/*.md -o die-natur-der-stadt.epub --css=src/de/epub.css --resource-path=src/de:src/images
 
   # Create PDF ebook
-  pandoc --resource-path=src/de:src/images src/de/metadata.txt src/de/*.md -o die-natur-der-stadt.pdf
+  pandoc --resource-path=src/de:src/images src/de/metadata.txt src/de/*.md --pdf-engine=xelatex -V geometry:margin=1.5cm -V papersize:a5 -o die-natur-der-stadt.pdf
+
 
   # OCR my PDF (text detection for the scanned book)
   ocrmypdf -l deu scans/Buchscan.pdf scans/Buchscan-ocr.pdf

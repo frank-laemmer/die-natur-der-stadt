@@ -1,0 +1,13 @@
+
+# Default Pandoc options for this project
+from: markdown
+pdf-engine: xelatex
+resource-path:
+  - src/de
+  - src/images
+metadata-file: src/de/metadata.txt
+css: src/de/epub.css
+toc: true
+variables:
+  geometry: margin=1.5cm
+  papersize: a5

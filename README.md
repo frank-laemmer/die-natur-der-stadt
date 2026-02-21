@@ -3,6 +3,8 @@
 + Ein Buch von Heide Berndt aus dem Jahr 1978.
 + Das ist die digitale Fassung.
 
+![Buch Foto](/src//images/book-on-table.jpg)
+
 ## Downloads
 
 + [die-natur-der-stadt.epub](die-natur-der-stadt.epub) - E-Book Deutsch

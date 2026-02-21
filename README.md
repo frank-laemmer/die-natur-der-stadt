@@ -5,7 +5,6 @@
 
 ![Buch Foto](/src//images/book-on-table.jpg)
 
-
 ## Downloads
 
 + [die-natur-der-stadt.epub](die-natur-der-stadt.epub) - E-Book Deutsch

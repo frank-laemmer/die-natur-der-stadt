@@ -15,18 +15,49 @@ This repository contains the digitization of "Die Natur der Stadt" by Heide Bern
 
 ```raw
 /
-├── README.md                    # Project documentation
-├── die-natur-der-stadt.epub    # Generated EPUB output
-├── src/                        # Source Markdown files
-│   ├── 00-vorwort.md           # Foreword
-│   ├── 01-arbeitsteilung-...md # Chapter 1
-│   ├── 02-die-stadt-...md      # Chapter 2
-│   ├── epub.css                # EPUB styling
-│   ├── metadata.txt            # EPUB metadata
-│   └── images/                 # Image assets
-└── scans/                      # Original scanned materials
-    └── Abbildungen JPGs/       # Scanned figures
+├── README.md                  # Project documentation and build instructions
+├── Makefile                   # (Optional) Makefile for build automation
+├── justfile                   # Justfile for build automation (preferred)
+├── pandoc.yaml                # Pandoc defaults/config file
+├── die-natur-der-stadt.epub   # Generated EPUB output
+├── die-natur-der-stadt.pdf    # Generated PDF output
+├── src/
+│   ├── de/                    # German source Markdown files
+│   │   ├── 00-vorwort.md      # Foreword (German)
+│   │   ├── 01-arbeitsteilung-als-ursache-der-stadtbildung.md # Chapter 1 (German)
+│   │   ├── ...                # More chapters (German)
+│   │   ├── epub.css           # EPUB styling
+│   │   ├── metadata.txt       # Metadata for export
+│   ├── en/                    # English translations (one file per chapter)
+│   │   ├── 00-foreword.md     # Foreword (English)
+│   │   ├── ...                # More chapters (English)
+│   └── images/                # Image assets (used in both DE/EN)
+└── scans/                     # Original scanned materials
+    └── Buchscan.pdf          # Full book scan
+    └── Buchscan-ocr.pdf      # OCR-processed scan
 ```
+
+## Translation Best Practices (German → English)
+
+When translating academic German text to English for this project:
+
+- **Preserve academic tone**: Use formal, scholarly English. Avoid colloquialisms.
+- **Translate meaning, not just words**: Prioritize conveying the original argument and nuance, not literal word-for-word translation.
+- **Maintain structure**: Keep paragraph and section breaks aligned with the German source.
+- **Footnotes**: Don't translate book titles.
+- **Specialized terms**: When in doubt, prefer established English academic terminology. If a term is untranslatable, provide the German in parentheses on first use.
+- **Quotations**: Translate quoted material if an authoritative English version exists; otherwise, translate directly and note the original if needed.
+- **Names and places**: Use standard English forms for well-known names/places; otherwise, transliterate.
+- **Formatting**: Follow Markdown and project formatting standards (see above).
+- **Conservative approach**: If a passage is ambiguous, err on the side of caution and flag for review.
+- **Do not invent content**: If the meaning is unclear, indicate with a comment or placeholder for later review.
+
+**Workflow:**
+
+1. Work on one chapter/file at a time, matching the German source structure.
+2. Keep footnotes and references in sync between DE and EN files.
+3. Use the code editor for all changes; do not use scripts for translation.
+4. Review for academic integrity and natural English flow.
 
 ## Formatting Standards
 
